@@ -8,6 +8,7 @@
     "start": "next start",
     "lint": "next lint"
   },
+  
   "dependencies": {
     "jspdf": "^2.5.1",
     "next": "14.0.4",
